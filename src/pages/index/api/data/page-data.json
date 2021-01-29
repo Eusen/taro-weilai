@@ -1,0 +1,1214 @@
+{
+  "id": 193,
+  "estate_id": 89,
+  "name": "地下负一层车位平面示意图",
+  "pic": "https://weilaihaoku2.oss-cn-hangzhou.aliyuncs.com/160736288314585788c7f-4768-4c65-9146-11af1e444b57.jpg",
+  "pic_width": 5000,
+  "pic_height": 5000,
+  "mask_width": 52,
+  "mask_height": 110,
+  "user_num": 857,
+  "building": [
+    {
+      "id": 1088,
+      "estate_id": 89,
+      "number": "3",
+      "is_delete": 1,
+      "pivot": {
+        "park_area_id": 193,
+        "building_id": 1088,
+        "xaxis": 1025,
+        "yaxis": 2523,
+        "radius": 149.5,
+        "fontsize": 74.7
+      }
+    },
+    {
+      "id": 1089,
+      "estate_id": 89,
+      "number": "6",
+      "is_delete": 1,
+      "pivot": {
+        "park_area_id": 193,
+        "building_id": 1089,
+        "xaxis": 2363,
+        "yaxis": 2522,
+        "radius": 149.5,
+        "fontsize": 74.7
+      }
+    },
+    {
+      "id": 1090,
+      "estate_id": 89,
+      "number": "5",
+      "is_delete": 1,
+      "pivot": {
+        "park_area_id": 193,
+        "building_id": 1090,
+        "xaxis": 3739,
+        "yaxis": 2523,
+        "radius": 149.5,
+        "fontsize": 74.7
+      }
+    }
+  ],
+  "park": [
+    {
+      "id": 32955,
+      "park_area_id": 193,
+      "number": "265",
+      "xaxis": "1228.0000",
+      "yaxis": "2451.0000",
+      "show_status": 1,
+      "ext_status": 1
+    },
+    {
+      "id": 32956,
+      "park_area_id": 193,
+      "number": "266",
+      "xaxis": "747.0000",
+      "yaxis": "2387.0000",
+      "show_status": 1,
+      "ext_status": 1
+    },
+    {
+      "id": 32957,
+      "park_area_id": 193,
+      "number": "267",
+      "xaxis": "973.0000",
+      "yaxis": "2387.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 32958,
+      "park_area_id": 193,
+      "number": "268",
+      "xaxis": "1228.0000",
+      "yaxis": "2387.0000",
+      "show_status": 1,
+      "ext_status": 1
+    },
+    {
+      "id": 32959,
+      "park_area_id": 193,
+      "number": "269",
+      "xaxis": "1453.0000",
+      "yaxis": "2388.0000",
+      "show_status": 2,
+      "ext_status": 1
+    },
+    {
+      "id": 32960,
+      "park_area_id": 193,
+      "number": "300",
+      "xaxis": "1454.0000",
+      "yaxis": "2320.0000",
+      "show_status": 1,
+      "ext_status": 1
+    },
+    {
+      "id": 32961,
+      "park_area_id": 193,
+      "number": "301",
+      "xaxis": "1227.0000",
+      "yaxis": "2320.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 32962,
+      "park_area_id": 193,
+      "number": "302",
+      "xaxis": "973.0000",
+      "yaxis": "2319.0000",
+      "show_status": 1,
+      "ext_status": 1
+    },
+    {
+      "id": 32963,
+      "park_area_id": 193,
+      "number": "303",
+      "xaxis": "747.0000",
+      "yaxis": "2320.0000",
+      "show_status": 1,
+      "ext_status": 1
+    },
+    {
+      "id": 32964,
+      "park_area_id": 193,
+      "number": "304",
+      "xaxis": "747.0000",
+      "yaxis": "2253.0000",
+      "show_status": 2,
+      "ext_status": 1
+    },
+    {
+      "id": 32965,
+      "park_area_id": 193,
+      "number": "305",
+      "xaxis": "973.0000",
+      "yaxis": "2254.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 32966,
+      "park_area_id": 193,
+      "number": "306",
+      "xaxis": "1227.0000",
+      "yaxis": "2255.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 32967,
+      "park_area_id": 193,
+      "number": "307",
+      "xaxis": "1454.0000",
+      "yaxis": "2255.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 32968,
+      "park_area_id": 193,
+      "number": "311",
+      "xaxis": "1454.0000",
+      "yaxis": "2170.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 32969,
+      "park_area_id": 193,
+      "number": "312",
+      "xaxis": "1227.0000",
+      "yaxis": "2170.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33206,
+      "park_area_id": 193,
+      "number": "313",
+      "xaxis": "972.0000",
+      "yaxis": "2171.0000",
+      "show_status": 1,
+      "ext_status": 1
+    },
+    {
+      "id": 33207,
+      "park_area_id": 193,
+      "number": "314",
+      "xaxis": "746.0000",
+      "yaxis": "2172.0000",
+      "show_status": 1,
+      "ext_status": 1
+    },
+    {
+      "id": 33208,
+      "park_area_id": 193,
+      "number": "315",
+      "xaxis": "746.0000",
+      "yaxis": "2104.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33209,
+      "park_area_id": 193,
+      "number": "316",
+      "xaxis": "972.0000",
+      "yaxis": "2106.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33210,
+      "park_area_id": 193,
+      "number": "317",
+      "xaxis": "1227.0000",
+      "yaxis": "2105.0000",
+      "show_status": 1,
+      "ext_status": 1
+    },
+    {
+      "id": 33211,
+      "park_area_id": 193,
+      "number": "318",
+      "xaxis": "1455.0000",
+      "yaxis": "2106.0000",
+      "show_status": 1,
+      "ext_status": 1
+    },
+    {
+      "id": 33212,
+      "park_area_id": 193,
+      "number": "322",
+      "xaxis": "1455.0000",
+      "yaxis": "2037.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33213,
+      "park_area_id": 193,
+      "number": "323",
+      "xaxis": "1227.0000",
+      "yaxis": "2039.0000",
+      "show_status": 1,
+      "ext_status": 1
+    },
+    {
+      "id": 33214,
+      "park_area_id": 193,
+      "number": "324",
+      "xaxis": "972.0000",
+      "yaxis": "2038.0000",
+      "show_status": 1,
+      "ext_status": 1
+    },
+    {
+      "id": 33215,
+      "park_area_id": 193,
+      "number": "325",
+      "xaxis": "746.0000",
+      "yaxis": "2039.0000",
+      "show_status": 1,
+      "ext_status": 1
+    },
+    {
+      "id": 33216,
+      "park_area_id": 193,
+      "number": "326",
+      "xaxis": "746.0000",
+      "yaxis": "1940.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33217,
+      "park_area_id": 193,
+      "number": "327",
+      "xaxis": "972.0000",
+      "yaxis": "1939.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33218,
+      "park_area_id": 193,
+      "number": "328",
+      "xaxis": "1228.0000",
+      "yaxis": "1941.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33219,
+      "park_area_id": 193,
+      "number": "329",
+      "xaxis": "1455.0000",
+      "yaxis": "1941.0000",
+      "show_status": 2,
+      "ext_status": 1
+    },
+    {
+      "id": 33220,
+      "park_area_id": 193,
+      "number": "334",
+      "xaxis": "1455.0000",
+      "yaxis": "1872.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33221,
+      "park_area_id": 193,
+      "number": "335",
+      "xaxis": "1228.0000",
+      "yaxis": "1873.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33222,
+      "park_area_id": 193,
+      "number": "336",
+      "xaxis": "973.0000",
+      "yaxis": "1874.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33223,
+      "park_area_id": 193,
+      "number": "337",
+      "xaxis": "746.0000",
+      "yaxis": "1874.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33224,
+      "park_area_id": 193,
+      "number": "338",
+      "xaxis": "746.0000",
+      "yaxis": "1807.0000",
+      "show_status": 1,
+      "ext_status": 1
+    },
+    {
+      "id": 33225,
+      "park_area_id": 193,
+      "number": "339",
+      "xaxis": "972.0000",
+      "yaxis": "1807.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33226,
+      "park_area_id": 193,
+      "number": "340",
+      "xaxis": "1229.0000",
+      "yaxis": "1806.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33227,
+      "park_area_id": 193,
+      "number": "341",
+      "xaxis": "1455.0000",
+      "yaxis": "1806.0000",
+      "show_status": 1,
+      "ext_status": 1
+    },
+    {
+      "id": 33228,
+      "park_area_id": 193,
+      "number": "429",
+      "xaxis": "1456.0000",
+      "yaxis": "1554.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33229,
+      "park_area_id": 193,
+      "number": "430",
+      "xaxis": "1229.0000",
+      "yaxis": "1555.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33230,
+      "park_area_id": 193,
+      "number": "431",
+      "xaxis": "973.0000",
+      "yaxis": "1554.0000",
+      "show_status": 1,
+      "ext_status": 1
+    },
+    {
+      "id": 33231,
+      "park_area_id": 193,
+      "number": "432",
+      "xaxis": "746.0000",
+      "yaxis": "1635.0000",
+      "show_status": 2,
+      "ext_status": 1
+    },
+    {
+      "id": 33232,
+      "park_area_id": 193,
+      "number": "433",
+      "xaxis": "746.0000",
+      "yaxis": "1552.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33233,
+      "park_area_id": 193,
+      "number": "370",
+      "xaxis": "3390.0000",
+      "yaxis": "2089.0000",
+      "show_status": 2,
+      "ext_status": 1
+    },
+    {
+      "id": 33234,
+      "park_area_id": 193,
+      "number": "371",
+      "xaxis": "3390.0000",
+      "yaxis": "2023.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33235,
+      "park_area_id": 193,
+      "number": "372",
+      "xaxis": "3390.0000",
+      "yaxis": "1941.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33236,
+      "park_area_id": 193,
+      "number": "373",
+      "xaxis": "3390.0000",
+      "yaxis": "1876.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33237,
+      "park_area_id": 193,
+      "number": "374",
+      "xaxis": "3390.0000",
+      "yaxis": "1810.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33238,
+      "park_area_id": 193,
+      "number": "375",
+      "xaxis": "3644.0000",
+      "yaxis": "1808.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33239,
+      "park_area_id": 193,
+      "number": "376",
+      "xaxis": "3644.0000",
+      "yaxis": "1877.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33240,
+      "park_area_id": 193,
+      "number": "377",
+      "xaxis": "3644.0000",
+      "yaxis": "1943.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33241,
+      "park_area_id": 193,
+      "number": "378",
+      "xaxis": "3644.0000",
+      "yaxis": "2022.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33242,
+      "park_area_id": 193,
+      "number": "379",
+      "xaxis": "3644.0000",
+      "yaxis": "2090.0000",
+      "show_status": 1,
+      "ext_status": 1
+    },
+    {
+      "id": 33243,
+      "park_area_id": 193,
+      "number": "380",
+      "xaxis": "3646.0000",
+      "yaxis": "2156.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33244,
+      "park_area_id": 193,
+      "number": "381",
+      "xaxis": "3646.0000",
+      "yaxis": "2238.0000",
+      "show_status": 1,
+      "ext_status": 1
+    },
+    {
+      "id": 33245,
+      "park_area_id": 193,
+      "number": "382",
+      "xaxis": "3646.0000",
+      "yaxis": "2305.0000",
+      "show_status": 1,
+      "ext_status": 1
+    },
+    {
+      "id": 33246,
+      "park_area_id": 193,
+      "number": "383",
+      "xaxis": "3872.0000",
+      "yaxis": "2304.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33247,
+      "park_area_id": 193,
+      "number": "384",
+      "xaxis": "3872.0000",
+      "yaxis": "2239.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33248,
+      "park_area_id": 193,
+      "number": "385",
+      "xaxis": "3872.0000",
+      "yaxis": "2155.0000",
+      "show_status": 2,
+      "ext_status": 1
+    },
+    {
+      "id": 33249,
+      "park_area_id": 193,
+      "number": "386",
+      "xaxis": "3872.0000",
+      "yaxis": "2087.0000",
+      "show_status": 1,
+      "ext_status": 1
+    },
+    {
+      "id": 33250,
+      "park_area_id": 193,
+      "number": "387",
+      "xaxis": "3872.0000",
+      "yaxis": "2023.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33251,
+      "park_area_id": 193,
+      "number": "388",
+      "xaxis": "3872.0000",
+      "yaxis": "1942.0000",
+      "show_status": 2,
+      "ext_status": 1
+    },
+    {
+      "id": 33252,
+      "park_area_id": 193,
+      "number": "389",
+      "xaxis": "3872.0000",
+      "yaxis": "1877.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33253,
+      "park_area_id": 193,
+      "number": "390",
+      "xaxis": "3872.0000",
+      "yaxis": "1809.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33254,
+      "park_area_id": 193,
+      "number": "391",
+      "xaxis": "4139.0000",
+      "yaxis": "1846.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33255,
+      "park_area_id": 193,
+      "number": "392",
+      "xaxis": "4139.0000",
+      "yaxis": "1912.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33256,
+      "park_area_id": 193,
+      "number": "393",
+      "xaxis": "4139.0000",
+      "yaxis": "1994.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33257,
+      "park_area_id": 193,
+      "number": "394",
+      "xaxis": "4139.0000",
+      "yaxis": "2060.0000",
+      "show_status": 2,
+      "ext_status": 1
+    },
+    {
+      "id": 33258,
+      "park_area_id": 193,
+      "number": "395",
+      "xaxis": "4139.0000",
+      "yaxis": "2127.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33259,
+      "park_area_id": 193,
+      "number": "396",
+      "xaxis": "4139.0000",
+      "yaxis": "2209.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33260,
+      "park_area_id": 193,
+      "number": "397",
+      "xaxis": "4139.0000",
+      "yaxis": "2275.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33261,
+      "park_area_id": 193,
+      "number": "398",
+      "xaxis": "4139.0000",
+      "yaxis": "2342.0000",
+      "show_status": 1,
+      "ext_status": 1
+    },
+    {
+      "id": 33262,
+      "park_area_id": 193,
+      "number": "399",
+      "xaxis": "4363.0000",
+      "yaxis": "2342.0000",
+      "show_status": 1,
+      "ext_status": 1
+    },
+    {
+      "id": 33263,
+      "park_area_id": 193,
+      "number": "400",
+      "xaxis": "4363.0000",
+      "yaxis": "2275.0000",
+      "show_status": 1,
+      "ext_status": 1
+    },
+    {
+      "id": 33264,
+      "park_area_id": 193,
+      "number": "401",
+      "xaxis": "4363.0000",
+      "yaxis": "2209.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33265,
+      "park_area_id": 193,
+      "number": "402",
+      "xaxis": "4363.0000",
+      "yaxis": "2127.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33266,
+      "park_area_id": 193,
+      "number": "403",
+      "xaxis": "4363.0000",
+      "yaxis": "2059.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33267,
+      "park_area_id": 193,
+      "number": "404",
+      "xaxis": "4363.0000",
+      "yaxis": "1995.0000",
+      "show_status": 2,
+      "ext_status": 1
+    },
+    {
+      "id": 33268,
+      "park_area_id": 193,
+      "number": "405",
+      "xaxis": "4363.0000",
+      "yaxis": "1913.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33269,
+      "park_area_id": 193,
+      "number": "406",
+      "xaxis": "4363.0000",
+      "yaxis": "1845.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33270,
+      "park_area_id": 193,
+      "number": "407",
+      "xaxis": "4363.0000",
+      "yaxis": "1780.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33271,
+      "park_area_id": 193,
+      "number": "408",
+      "xaxis": "4363.0000",
+      "yaxis": "1700.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33272,
+      "park_area_id": 193,
+      "number": "409",
+      "xaxis": "4363.0000",
+      "yaxis": "1632.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33273,
+      "park_area_id": 193,
+      "number": "410",
+      "xaxis": "4363.0000",
+      "yaxis": "1565.0000",
+      "show_status": 2,
+      "ext_status": 1
+    },
+    {
+      "id": 33274,
+      "park_area_id": 193,
+      "number": "411",
+      "xaxis": "4138.0000",
+      "yaxis": "1568.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33275,
+      "park_area_id": 193,
+      "number": "412",
+      "xaxis": "3869.0000",
+      "yaxis": "1567.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33276,
+      "park_area_id": 193,
+      "number": "413",
+      "xaxis": "3646.0000",
+      "yaxis": "1566.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33277,
+      "park_area_id": 193,
+      "number": "414",
+      "xaxis": "3389.0000",
+      "yaxis": "1567.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33278,
+      "park_area_id": 193,
+      "number": "452",
+      "xaxis": "3389.0000",
+      "yaxis": "1487.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33279,
+      "park_area_id": 193,
+      "number": "453",
+      "xaxis": "3646.0000",
+      "yaxis": "1486.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33280,
+      "park_area_id": 193,
+      "number": "454",
+      "xaxis": "3871.0000",
+      "yaxis": "1485.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33281,
+      "park_area_id": 193,
+      "number": "455",
+      "xaxis": "4138.0000",
+      "yaxis": "1488.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33282,
+      "park_area_id": 193,
+      "number": "456",
+      "xaxis": "4363.0000",
+      "yaxis": "1488.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33283,
+      "park_area_id": 193,
+      "number": "457",
+      "xaxis": "4363.0000",
+      "yaxis": "1421.0000",
+      "show_status": 1,
+      "ext_status": 1
+    },
+    {
+      "id": 33284,
+      "park_area_id": 193,
+      "number": "458",
+      "xaxis": "4139.0000",
+      "yaxis": "1421.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33285,
+      "park_area_id": 193,
+      "number": "459",
+      "xaxis": "3871.0000",
+      "yaxis": "1421.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33286,
+      "park_area_id": 193,
+      "number": "460",
+      "xaxis": "3646.0000",
+      "yaxis": "1421.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33287,
+      "park_area_id": 193,
+      "number": "461",
+      "xaxis": "3388.0000",
+      "yaxis": "1420.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33288,
+      "park_area_id": 193,
+      "number": "498",
+      "xaxis": "3388.0000",
+      "yaxis": "1340.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33289,
+      "park_area_id": 193,
+      "number": "499",
+      "xaxis": "3646.0000",
+      "yaxis": "1340.0000",
+      "show_status": 2,
+      "ext_status": 1
+    },
+    {
+      "id": 33290,
+      "park_area_id": 193,
+      "number": "500",
+      "xaxis": "3871.0000",
+      "yaxis": "1339.0000",
+      "show_status": 2,
+      "ext_status": 1
+    },
+    {
+      "id": 33291,
+      "park_area_id": 193,
+      "number": "501",
+      "xaxis": "4139.0000",
+      "yaxis": "1340.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33292,
+      "park_area_id": 193,
+      "number": "504",
+      "xaxis": "4139.0000",
+      "yaxis": "1272.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33293,
+      "park_area_id": 193,
+      "number": "505",
+      "xaxis": "3870.0000",
+      "yaxis": "1272.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33294,
+      "park_area_id": 193,
+      "number": "506",
+      "xaxis": "3646.0000",
+      "yaxis": "1272.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33295,
+      "park_area_id": 193,
+      "number": "507",
+      "xaxis": "3389.0000",
+      "yaxis": "1273.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33296,
+      "park_area_id": 193,
+      "number": "544",
+      "xaxis": "3389.0000",
+      "yaxis": "1206.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33297,
+      "park_area_id": 193,
+      "number": "545",
+      "xaxis": "3646.0000",
+      "yaxis": "1207.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33298,
+      "park_area_id": 193,
+      "number": "546",
+      "xaxis": "3870.0000",
+      "yaxis": "1207.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33299,
+      "park_area_id": 193,
+      "number": "547",
+      "xaxis": "4138.0000",
+      "yaxis": "1206.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33300,
+      "park_area_id": 193,
+      "number": "886",
+      "xaxis": "1946.0000",
+      "yaxis": "2117.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33301,
+      "park_area_id": 193,
+      "number": "887",
+      "xaxis": "2013.0000",
+      "yaxis": "2117.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33302,
+      "park_area_id": 193,
+      "number": "888",
+      "xaxis": "2183.0000",
+      "yaxis": "2137.0000",
+      "show_status": 1,
+      "ext_status": 1
+    },
+    {
+      "id": 33303,
+      "park_area_id": 193,
+      "number": "889",
+      "xaxis": "2183.0000",
+      "yaxis": "2204.0000",
+      "show_status": 1,
+      "ext_status": 1
+    },
+    {
+      "id": 33304,
+      "park_area_id": 193,
+      "number": "890",
+      "xaxis": "2183.0000",
+      "yaxis": "2270.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33305,
+      "park_area_id": 193,
+      "number": "891",
+      "xaxis": "2183.0000",
+      "yaxis": "2352.0000",
+      "show_status": 1,
+      "ext_status": 1
+    },
+    {
+      "id": 33306,
+      "park_area_id": 193,
+      "number": "892",
+      "xaxis": "2183.0000",
+      "yaxis": "2420.0000",
+      "show_status": 1,
+      "ext_status": 1
+    },
+    {
+      "id": 33307,
+      "park_area_id": 193,
+      "number": "893",
+      "xaxis": "2409.0000",
+      "yaxis": "2419.0000",
+      "show_status": 1,
+      "ext_status": 1
+    },
+    {
+      "id": 33308,
+      "park_area_id": 193,
+      "number": "894",
+      "xaxis": "2409.0000",
+      "yaxis": "2352.0000",
+      "show_status": 1,
+      "ext_status": 1
+    },
+    {
+      "id": 33309,
+      "park_area_id": 193,
+      "number": "895",
+      "xaxis": "2409.0000",
+      "yaxis": "2269.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33310,
+      "park_area_id": 193,
+      "number": "896",
+      "xaxis": "2409.0000",
+      "yaxis": "2203.0000",
+      "show_status": 1,
+      "ext_status": 1
+    },
+    {
+      "id": 33311,
+      "park_area_id": 193,
+      "number": "897",
+      "xaxis": "2409.0000",
+      "yaxis": "2137.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33312,
+      "park_area_id": 193,
+      "number": "898",
+      "xaxis": "2592.0000",
+      "yaxis": "2124.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33313,
+      "park_area_id": 193,
+      "number": "899",
+      "xaxis": "2657.0000",
+      "yaxis": "2124.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33314,
+      "park_area_id": 193,
+      "number": "900",
+      "xaxis": "2741.0000",
+      "yaxis": "2124.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33315,
+      "park_area_id": 193,
+      "number": "907",
+      "xaxis": "1925.0000",
+      "yaxis": "1896.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33406,
+      "park_area_id": 193,
+      "number": "910",
+      "xaxis": "1925.0000",
+      "yaxis": "1816.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33407,
+      "park_area_id": 193,
+      "number": "919",
+      "xaxis": "1925.0000",
+      "yaxis": "1749.0000",
+      "show_status": 3,
+      "ext_status": 1
+    },
+    {
+      "id": 33408,
+      "park_area_id": 193,
+      "number": "922",
+      "xaxis": "1925.0000",
+      "yaxis": "1683.0000",
+      "show_status": 3,
+      "ext_status": 1
+    }
+  ],
+  "countdown": {
+    "id": 89,
+    "isclose": 3,
+    "starttime": "2020-12-13 10:00:00"
+  }
+}
