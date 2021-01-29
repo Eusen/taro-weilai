@@ -1,6 +1,6 @@
 const config = {
-  projectName: 'viewer-test',
-  date: '2021-1-26',
+  projectName: 'taro-weilai-canvas',
+  date: '2021-1-29',
   designWidth: 750,
   deviceRatio: {
     640: 2.34 / 2,
@@ -22,7 +22,7 @@ const config = {
   mini: {
     postcss: {
       pxtransform: {
-        enable: true,
+        enable: false,
         config: {
 
         }
@@ -43,7 +43,6 @@ const config = {
     }
   },
   h5: {
-    esnextModules: ['taro-ui'],
     publicPath: '/',
     staticDirectory: 'static',
     postcss: {

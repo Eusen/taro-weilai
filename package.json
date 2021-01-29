@@ -1,11 +1,11 @@
 {
-  "name": "taro-weilai",
+  "name": "taro-weilai-canvas",
   "version": "1.0.0",
   "private": true,
-  "description": "taro-weilai",
+  "description": "test",
   "templateInfo": {
-    "name": "default",
-    "typescript": false,
+    "name": "taro-ui",
+    "typescript": true,
     "css": "sass"
   },
   "scripts": {
@@ -36,29 +36,32 @@
   "author": "",
   "dependencies": {
     "@babel/runtime": "^7.7.7",
+    "@panzoom/panzoom": "^4.3.2",
+    "@tarojs/cli": "3.0.25",
     "@tarojs/components": "3.0.25",
-    "@tarojs/extend": "^3.0.25",
     "@tarojs/react": "3.0.25",
     "@tarojs/runtime": "3.0.25",
     "@tarojs/taro": "3.0.25",
-    "bootstrap": "^4.6.0",
+    "lodash": "4.17.15",
     "react": "^16.10.0",
     "react-dom": "^16.10.0",
-    "swiper": "^6.4.8",
-    "taro-ui": "^2.3.4"
+    "taro-ui": "^3.0.0-alpha.3"
   },
   "devDependencies": {
-    "@types/webpack-env": "^1.13.6",
-    "@types/react": "^16.0.0",
+    "@babel/core": "^7.12.10",
     "@tarojs/mini-runner": "3.0.25",
-    "@babel/core": "^7.8.0",
     "@tarojs/webpack-runner": "3.0.25",
+    "@types/react": "^16.0.0",
+    "@types/webpack-env": "^1.13.6",
+    "@typescript-eslint/eslint-plugin": "^2.x",
+    "@typescript-eslint/parser": "^2.x",
     "babel-preset-taro": "3.0.25",
-    "eslint-config-taro": "3.0.25",
     "eslint": "^6.8.0",
-    "eslint-plugin-react": "^7.8.2",
+    "eslint-config-taro": "3.0.25",
     "eslint-plugin-import": "^2.12.0",
+    "eslint-plugin-react": "^7.8.2",
     "eslint-plugin-react-hooks": "^1.6.1",
-    "stylelint": "9.3.0"
+    "stylelint": "9.3.0",
+    "typescript": "^3.7.0"
   }
 }
